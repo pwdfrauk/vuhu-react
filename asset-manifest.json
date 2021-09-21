@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/vuhu-react/static/css/main.0f5a9f66.chunk.css",
+    "main.js": "/vuhu-react/static/js/main.879aaf86.chunk.js",
+    "main.js.map": "/vuhu-react/static/js/main.879aaf86.chunk.js.map",
+    "runtime-main.js": "/vuhu-react/static/js/runtime-main.9ea15e1b.js",
+    "runtime-main.js.map": "/vuhu-react/static/js/runtime-main.9ea15e1b.js.map",
+    "static/css/2.28bb0c3d.chunk.css": "/vuhu-react/static/css/2.28bb0c3d.chunk.css",
+    "static/js/2.20c1cde3.chunk.js": "/vuhu-react/static/js/2.20c1cde3.chunk.js",
+    "static/js/2.20c1cde3.chunk.js.map": "/vuhu-react/static/js/2.20c1cde3.chunk.js.map",
+    "static/js/3.75294e9e.chunk.js": "/vuhu-react/static/js/3.75294e9e.chunk.js",
+    "static/js/3.75294e9e.chunk.js.map": "/vuhu-react/static/js/3.75294e9e.chunk.js.map",
+    "index.html": "/vuhu-react/index.html",
+    "static/css/2.28bb0c3d.chunk.css.map": "/vuhu-react/static/css/2.28bb0c3d.chunk.css.map",
+    "static/css/main.0f5a9f66.chunk.css.map": "/vuhu-react/static/css/main.0f5a9f66.chunk.css.map",
+    "static/js/2.20c1cde3.chunk.js.LICENSE.txt": "/vuhu-react/static/js/2.20c1cde3.chunk.js.LICENSE.txt",
+    "static/media/gool.7957394d.png": "/vuhu-react/static/media/gool.7957394d.png",
+    "static/media/logo.fceb53ac.png": "/vuhu-react/static/media/logo.fceb53ac.png",
+    "static/media/mobile.177e3eb7.gif": "/vuhu-react/static/media/mobile.177e3eb7.gif"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9ea15e1b.js",
+    "static/css/2.28bb0c3d.chunk.css",
+    "static/js/2.20c1cde3.chunk.js",
+    "static/css/main.0f5a9f66.chunk.css",
+    "static/js/main.879aaf86.chunk.js"
+  ]
+}
